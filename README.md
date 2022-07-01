@@ -4,11 +4,11 @@ Experienced remote DevOps specialists available for consulting and senior DevOps
 
 We work with:
 
-- @Kubernetes
-- @AWS
-- [Terraform] (https://github.com/hashicorp/terraform)
-- [Elastic Search] (https://github.com/elastic/elasticsearch)
-- @Prometheus
-- [Grafana] (https://github.com/grafana/grafana)
+- [Kubernetes](https://github.com/Kubernetes)
+- [AWS](https://github.com/aws/)
+- [Terraform](https://github.com/hashicorp/terraform)
+- [Elastic Search](https://github.com/elastic/elasticsearch)
+- [Prometheus](https://github.com/elastic/Prometheus)
+- [Grafana](https://github.com/grafana/grafana)
 
-Visit [neonsurge.com] (https://neonsurge.com/)
+Visit [neonsurge.com](https://neonsurge.com/) for more about working with Neon Surge.
