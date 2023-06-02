@@ -12,9 +12,9 @@
 
 # Neon Surge
 
-Experienced remote DevOps specialists available for consulting and senior DevOps work including decision support, systems design and training/mentorship.
+Optimise your DevOps! We are experienced DevOps specialists available for consulting and senior DevOps work including decision support, systems design and training/mentorship. New Zealand based, worldwide clients.
 
-We work with:
+## We work with:
 
 - [Kubernetes](https://github.com/Kubernetes)
 - [AWS](https://github.com/aws/)
@@ -24,3 +24,8 @@ We work with:
 - [Grafana](https://github.com/grafana/grafana)
 
 Visit [neonsurge.com](https://neonsurge.com/) for more about working with Neon Surge.
+
+## Neon Surge Projects include:
+
+- [DevOps Nirvana](https://github.com/DevOps-Nirvana)
+- [PingMy.Cloud](https://github.com/PingMy-Cloud)
